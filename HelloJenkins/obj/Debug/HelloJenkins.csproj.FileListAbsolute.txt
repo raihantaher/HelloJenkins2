@@ -1,0 +1,7 @@
+C:\Users\raihan\work\learn\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe.config
+C:\Users\raihan\work\learn\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe
+C:\Users\raihan\work\learn\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.pdb
+C:\Users\raihan\work\learn\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.csprojResolveAssemblyReference.cache
+C:\Users\raihan\work\learn\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.csproj.CoreCompileInputs.cache
+C:\Users\raihan\work\learn\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.exe
+C:\Users\raihan\work\learn\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.pdb
